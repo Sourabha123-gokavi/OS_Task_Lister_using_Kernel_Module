@@ -6,10 +6,10 @@ $ git clone https://github.com/yoyozaemon/OS-Task-Lister-using-Kernel-Module.git
 $ cd OS-Task-Lister-using-Kernel-Module/
 
 How to use
-$ cd src/[linear|dfs]
-$ make                                  # Make module
-$ insmod tasks_lister_[linear|dfs].ko   # Install module
-$ dmesg                                 # Show message
-$ rmmod tasks_lister_[linear|dfs]       # Remove module
-$ dmesg                                 # Show message
-$ dmesg -C                              # Clear message
+1)$ cd src/[linear|dfs]
+2)$ make                                  # Make module
+3)$ insmod tasks_lister_[linear|dfs].ko   # Install module
+4)$ dmesg                                 # Show message
+5)$ rmmod tasks_lister_[linear|dfs]       # Remove module
+6)$ dmesg                                 # Show message
+7)$ dmesg -C                              # Clear message
