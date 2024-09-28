@@ -37,4 +37,4 @@ module_exit(tasks_lister_dfs_exit);
 
 MODULE_LICENSE("GPL 2.0");
 MODULE_DESCRIPTION("List tasks using DFS");
-MODULE_AUTHOR("Vijay J");
+MODULE_AUTHOR("Sourabha G");
