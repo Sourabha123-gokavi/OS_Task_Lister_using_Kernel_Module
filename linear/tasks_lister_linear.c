@@ -30,4 +30,4 @@ module_exit(tasks_lister_linear_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("List tasks linearly");
-MODULE_AUTHOR("Vijay J");
+MODULE_AUTHOR("Sourabha G");
